@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import css from './Contact-list.module.css';
 import { useDispatch, useSelector } from 'react-redux';
 import { removeContact } from 'redux/contactsSlice';
